@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/milkdeliveryapp/virgin_milk/BuildConfig.java
+ com.milkdeliveryapp.virgin_milk.BuildConfig

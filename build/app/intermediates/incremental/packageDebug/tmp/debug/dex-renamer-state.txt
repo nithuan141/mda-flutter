@@ -1,0 +1,4 @@
+#Fri Sep 10 00:14:12 IST 2021
+base.0=D\:\\Virgin Milk Flutter\\virgin_milk\\mda-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
